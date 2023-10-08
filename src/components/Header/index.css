@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.nav-link {
+  margin: 2px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
